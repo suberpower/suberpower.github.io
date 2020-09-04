@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suberpower Techblog</title>
+    <link>https://suberpower.com/</link>
+    <description>Recent content on Suberpower Techblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Suberpower</copyright>
+    <lastBuildDate>Sun, 15 Mar 2020 11:11:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://suberpower.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why 4G is safer than joining WIFI.</title>
+      <link>https://suberpower.com/posts/2020-03-15-lockdown-and-plants/</link>
+      <pubDate>Sun, 15 Mar 2020 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2020-03-15-lockdown-and-plants/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>How to pull data into a static site with JSON</title>
+      <link>https://suberpower.com/posts/2020-01-26-jamstack-orientation/</link>
+      <pubDate>Sun, 26 Jan 2020 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2020-01-26-jamstack-orientation/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>Plantenbieb.com - beta</title>
+      <link>https://suberpower.com/plantenbieb/</link>
+      <pubDate>Thu, 02 Jan 2020 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/plantenbieb/</guid>
+      <description>People in several online plant communities always look for plantenbiebs in their surroundings. Plantenbieb is translated to Plant Library and is set up for sharing and exchanging plants, seeds and pots. Plantenbieb Nederland provides the first and only index of all plantenbiebs nation-wide.
+Mission Statement To make a contribution to society by making apps to stimulate plant exchange.
+Roadmap 2020
+October: Final functional design
+2021
+Februari: Beta testing
+March: UI and UX make-over</description>
+    </item>
+    
+    <item>
+      <title>Suberdeal.com - beta</title>
+      <link>https://suberpower.com/suberdeal/</link>
+      <pubDate>Thu, 02 Jan 2020 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/suberdeal/</guid>
+      <description>The world of E-commerce has been flooded by PHP frameworks. Most webshops are based on Magento (enterprise) or Wordpress with e-commerce plug-ins (SME). Vulnerabilities in PHP brings risks of unintended server responses, damage or even worse: totally compromised.
+Mission Statement To build a webshop without any risk of a website attack.</description>
+    </item>
+    
+    <item>
+      <title>My URxvt configuration</title>
+      <link>https://suberpower.com/posts/2019-11-17-urxvt-config/</link>
+      <pubDate>Sun, 17 Nov 2019 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2019-11-17-urxvt-config/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>My polybar configuration</title>
+      <link>https://suberpower.com/posts/2019-10-28-polybar-config/</link>
+      <pubDate>Mon, 28 Oct 2019 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2019-10-28-polybar-config/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://suberpower.com/about/</link>
+      <pubDate>Sun, 22 Sep 2019 18:58:28 +0000</pubDate>
+      
+      <guid>https://suberpower.com/about/</guid>
+      <description>In my transformation to become a reputable Security Engineer I will come across a lot of interesting tech topics to share. I&amp;rsquo;ll start off writing about using Linux as main OS for home computing, with some guides and reviews. Cloud and Security topics are being prepared to add sparkles to this techblog. Oh, and in case you&amp;rsquo;re wondering: Yes, I accept donations for coffee (for writing in the late hours). &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>My i3gaps configuration</title>
+      <link>https://suberpower.com/posts/2019-09-22-i3gaps-config/</link>
+      <pubDate>Sun, 22 Sep 2019 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2019-09-22-i3gaps-config/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>ThinkPad X61 keyboard swap</title>
+      <link>https://suberpower.com/posts/2019-08-22-x61-keyboard-swap/</link>
+      <pubDate>Fri, 23 Aug 2019 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2019-08-22-x61-keyboard-swap/</guid>
+      <description>  upload in progress. </description>
+    </item>
+    
+    <item>
+      <title>Void Linux on Thinkpad X61</title>
+      <link>https://suberpower.com/posts/2019-08-22-x61-void-install/</link>
+      <pubDate>Thu, 22 Aug 2019 11:11:11 +0000</pubDate>
+      
+      <guid>https://suberpower.com/posts/2019-08-22-x61-void-install/</guid>
+      <description>This machine in 12” 4:3 aspect ratio is great to have on the side, literally. The TN-panel looks awful in picture but is actually good enough to work in terminal environments. The classis 7-row keyboard gives this machine it’s right to exist eternally. I’ve decided to install Void Linux, the musl edition. Here are my notes to guide trough the setup process on the ThinkPad X61!
+ musl is a new standard library to power a new generation of Linux devices.</description>
+    </item>
+    
+  </channel>
+</rss>

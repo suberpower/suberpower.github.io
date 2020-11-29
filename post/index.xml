@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Suberpower</title>
+    <link>https://suberpower.com/post/</link>
+    <description>Recent content in Blog on Suberpower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 01:01:01 -0101</lastBuildDate><atom:link href="https://suberpower.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KPN CloudFAQ</title>
+      <link>https://suberpower.com/20200828kpn-cloudfaq/</link>
+      <pubDate>Fri, 28 Aug 2020 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20200828kpn-cloudfaq/</guid>
+      <description>To solve servicedesk fatique, I&amp;rsquo;ve launched an Automated Dashboard for agents to improve chat performance for KPN Cloud Competence Center; made by co-creation and objects hyperlinking&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plantenbiebs Nederland</title>
+      <link>https://suberpower.com/20200721plantenbiebs-nederland/</link>
+      <pubDate>Tue, 21 Jul 2020 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20200721plantenbiebs-nederland/</guid>
+      <description>I wish to contribute to society by co-creating progressive web apps to stimulate local plant exchange in the Benelux. I&amp;rsquo;ve made some friends who each runs a plantenbieb in their area succesfully&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Suberdeal</title>
+      <link>https://suberpower.com/20190511suberdeal/</link>
+      <pubDate>Sat, 11 May 2019 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20190511suberdeal/</guid>
+      <description>PHP code are considered bad practices due to inherent security problems, while it runs 80% of e-commerce of the world. The shopaholic in me started researching by hands-on study on Object Orientated vs Object Distributed architecture&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NIZ Micro 82 EC</title>
+      <link>https://suberpower.com/20190202niz-micro-82-ec/</link>
+      <pubDate>Sat, 02 Feb 2019 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20190202niz-micro-82-ec/</guid>
+      <description>For portability and design reasons, Apple is promoting it&amp;rsquo;s chiclet agenda; by narrowing the key travel on it&amp;rsquo;s keyboards. This takes away the critical margin for pleasure in touch typing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://suberpower.com/20180908vim/</link>
+      <pubDate>Sat, 08 Sep 2018 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20180908vim/</guid>
+      <description>My favourite command line text editor and why Microsoft 365 Word is not sufficient for word processing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GPD Pocket P2</title>
+      <link>https://suberpower.com/20180818gpd-pocket-p2/</link>
+      <pubDate>Sat, 18 Aug 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20180818gpd-pocket-p2/</guid>
+      <description>A legendary pocket computer launched in 2018. I got to keep this review device for participation in the Linux Hardware Tweak Programme in Shenzhen&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ranger</title>
+      <link>https://suberpower.com/20180811ranger/</link>
+      <pubDate>Sat, 11 Aug 2018 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20180811ranger/</guid>
+      <description>When you need to visually fly through systemdir from the command line, there is only one tool to do it classy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>URxvt daemon</title>
+      <link>https://suberpower.com/20180407urxvt-daemon/</link>
+      <pubDate>Sat, 07 Apr 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20180407urxvt-daemon/</guid>
+      <description>There are three in my toolset but just one is mandatory. URxvt is the most memory efficient terminal emulator when run as a daemon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>X250 Linux install</title>
+      <link>https://suberpower.com/20180310x250-linux-install/</link>
+      <pubDate>Sat, 10 Mar 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20180310x250-linux-install/</guid>
+      <description>My system on Thinkpad X250 is build from the ground up. I&amp;rsquo;ve took notes while installing Void Linux with chroot to show the installation steps. It&amp;rsquo;s basically the &lt;code&gt;void-installer&lt;/code&gt; script done manually&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

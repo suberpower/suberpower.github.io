@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotfiles on Suberpower</title>
+    <link>https://suberpower.com/tags/dotfiles/</link>
+    <description>Recent content in dotfiles on Suberpower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Sep 2018 13:50:01 -0600</lastBuildDate><atom:link href="https://suberpower.com/tags/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vim</title>
+      <link>https://suberpower.com/20180908vim/</link>
+      <pubDate>Sat, 08 Sep 2018 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20180908vim/</guid>
+      <description>My favourite command line text editor and why Microsoft 365 Word is not sufficient for word processing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ranger</title>
+      <link>https://suberpower.com/20180811ranger/</link>
+      <pubDate>Sat, 11 Aug 2018 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20180811ranger/</guid>
+      <description>When you need to visually fly through systemdir from the command line, there is only one tool to do it classy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>URxvt daemon</title>
+      <link>https://suberpower.com/20180407urxvt-daemon/</link>
+      <pubDate>Sat, 07 Apr 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20180407urxvt-daemon/</guid>
+      <description>There are three in my toolset but just one is mandatory. URxvt is the most memory efficient terminal emulator when run as a daemon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on Suberpower</title>
+    <link>https://suberpower.com/tags/hardware/</link>
+    <description>Recent content in hardware on Suberpower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 01:01:01 -0101</lastBuildDate><atom:link href="https://suberpower.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIZ Micro 82 EC</title>
+      <link>https://suberpower.com/20190202niz-micro-82-ec/</link>
+      <pubDate>Sat, 02 Feb 2019 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20190202niz-micro-82-ec/</guid>
+      <description>For portability and design reasons, Apple is promoting it&amp;rsquo;s chiclet agenda; by narrowing the key travel on it&amp;rsquo;s keyboards. This takes away the critical margin for pleasure in touch typing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GPD Pocket P2</title>
+      <link>https://suberpower.com/20180818gpd-pocket-p2/</link>
+      <pubDate>Sat, 18 Aug 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/20180818gpd-pocket-p2/</guid>
+      <description>A legendary pocket computer launched in 2018. I got to keep this review device for participation in the Linux Hardware Tweak Programme in Shenzhen&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

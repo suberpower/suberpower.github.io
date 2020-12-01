@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Suberpower</title>
+    <link>https://suberpower.com/tags/</link>
+    <description>Recent content in Tags on Suberpower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 01:01:01 -0101</lastBuildDate><atom:link href="https://suberpower.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://suberpower.com/tags/docker/</link>
+      <pubDate>Fri, 28 Aug 2020 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>https://suberpower.com/tags/microservices/</link>
+      <pubDate>Fri, 28 Aug 2020 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pwa</title>
+      <link>https://suberpower.com/tags/pwa/</link>
+      <pubDate>Fri, 28 Aug 2020 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/pwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://suberpower.com/tags/linux/</link>
+      <pubDate>Sat, 11 May 2019 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://suberpower.com/tags/security/</link>
+      <pubDate>Sat, 11 May 2019 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firmware</title>
+      <link>https://suberpower.com/tags/firmware/</link>
+      <pubDate>Sat, 02 Feb 2019 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/firmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://suberpower.com/tags/hardware/</link>
+      <pubDate>Sat, 02 Feb 2019 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotfiles</title>
+      <link>https://suberpower.com/tags/dotfiles/</link>
+      <pubDate>Sat, 08 Sep 2018 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/tags/dotfiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thinkpad</title>
+      <link>https://suberpower.com/tags/thinkpad/</link>
+      <pubDate>Sat, 10 Mar 2018 01:01:01 -0101</pubDate>
+      
+      <guid>https://suberpower.com/tags/thinkpad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

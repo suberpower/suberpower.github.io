@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on Suberpower</title>
+    <link>https://suberpower.com/tags/security/</link>
+    <description>Recent content in security on Suberpower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 13:50:01 -0600</lastBuildDate><atom:link href="https://suberpower.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suberdeal</title>
+      <link>https://suberpower.com/20190511suberdeal/</link>
+      <pubDate>Sat, 11 May 2019 13:50:01 -0600</pubDate>
+      
+      <guid>https://suberpower.com/20190511suberdeal/</guid>
+      <description>PHP code are considered bad practices due to inherent security problems, while it runs 80% of e-commerce of the world. The shopaholic in me started researching by hands-on study on Object Orientated vs Object Distributed architecture&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
